@@ -1,4 +1,4 @@
-O Focus Timer - Pomodoro é o cronometro regressivo configurável até 60 minutos que possue (conforme preferência do usuário) alternância entre dark e light mode. Durante o uso e conforme o que estiver acontecendo no momento, os botões da aplicação mudam e há ainda a opção de deixar uma música de fundo relaxante. Claro que tem um despertado no final.
+The Focus Timer - Pomodoro is a countdown timer configurable up to 60 minutes that has (according to user preference) alternation between dark and light mode. During use and depending on what is happening at the time, the application buttons change and there is even the option to play relaxing background music. Of course there is an awakening at the end.
 
 ![image](https://github.com/user-attachments/assets/4189610a-f4fc-426e-8ab0-09428dc54926)
 ![image](https://github.com/user-attachments/assets/6591bfbe-ac55-4a93-b726-84ddf380bf3d)
